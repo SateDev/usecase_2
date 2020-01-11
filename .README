@@ -1,0 +1,4 @@
+step 1: do `npm install` from the root of the folder
+step 2: start the ganache cli by entering the command `ganache-cli -m 'candy maple cake sugar pudding cream honey rich smooth crumble sweet treat' --networkId 100 -a 10 --gasPrice 1 --gasLimit 8000000`
+step 3: do `truffle migarte`
+step 4: do `truffle test` to test the contracts.
